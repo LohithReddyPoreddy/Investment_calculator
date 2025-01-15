@@ -1,5 +1,7 @@
 # Investment Calculator
 
+[app link](https://lohithreddyporeddy.github.io/Investment_calculator/)
+
 This is a React-based Investment Calculator application that helps users calculate the future value of their investments based on initial investment, annual investment, expected return, and duration.
 
 ## Table of Contents
